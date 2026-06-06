@@ -1,0 +1,2 @@
+User scripts. Used for storing JS/CSS/HTML files.
+Refer to the README.md for more information.
