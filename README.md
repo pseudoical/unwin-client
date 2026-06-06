@@ -20,7 +20,7 @@ All [Chromium Embedded Framework (CEF)](#chromium-embedded-framework-cef) librar
 
 ## Installation
 
-1. Download the client from the Releases page.
+1. Download the lastest version from the [Releases](https://github.com/pseudoical/unwin-client/releases/) page.
 2. Extract the archive.
 3. Try launching `unwin` by double-clicking it in your file manager.
 
@@ -181,6 +181,8 @@ unwin-client/     <- Parent directory.
 │   └── main.c         <- Entry point. CEF, window, browser, and thread startup.
 └── build.sh      <- GCC build script.
 ```
+
+Download the full project from the [Releases](https://github.com/pseudoical/unwin-client/releases/) page. It includes all required CEF binaries.
 
 ## JavaScript, CSS, and HTML injection
 
