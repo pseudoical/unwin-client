@@ -2,6 +2,8 @@
 
 Unwin (stylized as unwin) is a minimal [Kirka.io](https://kirka.io/) client for Linux written in C using Xlib and the [Chromium Embedded Framework (CEF)](#chromium-embedded-framework-cef).
 
+![assets/unwin.png](assets/unwin.png)
+
 ## Features
 
 - [JavaScript, CSS, and HTML injection](#javascript-css-and-html-injection)
