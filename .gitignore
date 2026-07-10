@@ -1,0 +1,9 @@
+cache/
+cef/Release/
+cef/Resources/
+extensions/
+releases/
+resources/test/
+scripts/test/
+releases.sh
+unwin
